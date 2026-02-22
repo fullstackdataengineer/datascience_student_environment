@@ -1,5 +1,5 @@
 {
-  "name": "Advanced Data Structures and Storage Student Environment",
+  "name": "Data Science Student Environment",
   "build": {
     "dockerfile": "Dockerfile",
     "context": "."
